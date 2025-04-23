@@ -16,9 +16,9 @@ A classic **Hangman game** built with JavaScript, HTML, and CSS. Try to guess th
 
 ## 📷 Screenshots
 
-!(https://github.com/user-attachments/assets/5387f0c0-148c-4023-b340-fcfe73418633)
-!(https://github.com/user-attachments/assets/c7109a72-90ff-412a-9bd2-29740d5a3310)
-!(https://github.com/user-attachments/assets/8a1f64b7-152e-412c-a643-f8ad2fdaff26)
+(https://github.com/user-attachments/assets/5387f0c0-148c-4023-b340-fcfe73418633)
+(https://github.com/user-attachments/assets/c7109a72-90ff-412a-9bd2-29740d5a3310)
+(https://github.com/user-attachments/assets/8a1f64b7-152e-412c-a643-f8ad2fdaff26)
 
 
 ---
