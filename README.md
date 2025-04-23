@@ -2,6 +2,7 @@
 
 A classic **Hangman game** built with JavaScript, HTML, and CSS. Try to guess the hidden word by clicking on the correct letters. Each incorrect guess brings the hangman closer to completion — can you save him in time?
 
+CLICK TO PLAY:https://yashika-ash.github.io/HANGMAN-GAME/
 ---
 
 ## 🚀 Features
